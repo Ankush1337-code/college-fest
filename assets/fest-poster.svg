@@ -1,0 +1,74 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="900"
+  height="1050"
+  viewBox="0 0 900 1050"
+>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#102b43" />
+      <stop offset=".55" stop-color="#241d45" />
+      <stop offset="1" stop-color="#4b1741" />
+    </linearGradient>
+    <radialGradient id="r">
+      <stop stop-color="#54e4e8" stop-opacity=".8" />
+      <stop offset="1" stop-color="#54e4e8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1050" rx="40" fill="url(#g)" />
+  <circle cx="690" cy="230" r="300" fill="url(#r)" />
+  <circle cx="180" cy="830" r="260" fill="url(#r)" opacity=".5" />
+  <g fill="none" stroke="#54e4e8" stroke-opacity=".35">
+    <path d="M0 620L900 260M0 700L900 340M0 780L900 420" />
+    <path d="M150 0L700 1050M280 0L830 1050" />
+  </g>
+  <text
+    x="75"
+    y="150"
+    fill="#54e4e8"
+    font-family="Arial"
+    font-size="28"
+    letter-spacing="10"
+  >
+    THE ANNUAL COLLEGE FEST
+  </text>
+  <text
+    x="70"
+    y="390"
+    fill="#fff"
+    font-family="Arial"
+    font-size="118"
+    font-weight="bold"
+  >
+    TECH
+  </text>
+  <text
+    x="70"
+    y="510"
+    fill="#ff5ca8"
+    font-family="Arial"
+    font-size="118"
+    font-weight="bold"
+  >
+    FEST
+  </text>
+  <text
+    x="78"
+    y="590"
+    fill="#fff"
+    font-family="Arial"
+    font-size="62"
+    font-weight="bold"
+  >
+    2027
+  </text>
+  <text x="78" y="760" fill="#dce9ff" font-family="Arial" font-size="32">
+    CREATE • COMPETE • CELEBRATE
+  </text>
+  <text x="78" y="840" fill="#54e4e8" font-family="Arial" font-size="30">
+    12–14 FEBRUARY 2027
+  </text>
+  <text x="78" y="900" fill="#dce9ff" font-family="Arial" font-size="25">
+    College Main Campus
+  </text>
+</svg>
